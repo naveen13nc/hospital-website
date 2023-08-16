@@ -67,6 +67,9 @@ a{
     margin-right:-.15rem;
 }
 
+.main-logo img{
+    height:50px;
+}
 
 
 
@@ -92,7 +95,7 @@ a{
     }
 
     .main-logo img{
-        width:200px;
+        width:150px;
     }
 
 }
