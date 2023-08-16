@@ -73,6 +73,7 @@ a{
 
 
 
+
 @media screen and (max-width: 625px){
     .emailtop{
         display:none;
@@ -95,7 +96,8 @@ a{
     }
 
     .main-logo img{
-        width:150px;
+        width:175px;
+        height: 40px
     }
 
 }
